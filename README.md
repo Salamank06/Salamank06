@@ -1,93 +1,77 @@
-# Santiago Salamanca Narváez
+# Santiago Salamanca
 
-Desarrollador Frontend enfocado en **Angular** con experiencia construyendo aplicaciones web para los sectores **logístico y asegurador**.
+**Desarrollador Full Stack en transición a Ingeniería de Sistemas de IA** · Bogotá, Colombia
 
-Actualmente estudio **Análisis y Desarrollo de Software en el SENA** y continúo fortaleciendo mis habilidades en desarrollo frontend, arquitectura de software e integración de APIs.
+Construyo productos web completos, del diseño de la base de datos al despliegue, y los entrego a clientes reales. Ahora estoy sumando LLMs, RAG y agentes a ese perfil.
 
----
-
-## Tecnologías
-
-### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-- C#
-- .NET Core
-- Entity Framework
-- LINQ
-- REST APIs
-
-### Programación (Nivel Básico)
-- Python
-- Java
-
-### Buenas prácticas
-- Clean Code
-- Principios SOLID
-- Unit Testing
-
-### Herramientas
-- Git
-- Azure DevOps
-- Scrum
+Cofundador de **Mussav Studio**, un estudio de diseño y desarrollo digital, donde estoy a cargo del desarrollo.
 
 ---
 
-## Proyectos Destacados
+## Proyectos destacados
 
-### EasyChord
-Buscador de acordes para piano con síntesis de sonido en el navegador utilizando **Web Audio API**.
+### FitLoyalty · Proyecto productivo del SENA
+Plataforma de fidelización para gimnasios, desarrollada en equipo de 3. Trabajé en todos los módulos: backend, frontend web, app móvil y base de datos. Soy el autor con más commits del repositorio.
 
-Principales características:
-- Generación de sonido sin archivos MP3
-- Lógica de intervalos musicales
-- Manejo de dos octavas usando aritmética modular
+Stack: Python, JavaScript, Dart, PostgreSQL, Docker
+[Repositorio](https://github.com/Luis140721/Proyecto_Fitloyalty) · [Demo](https://fitloyalty-zeta.vercel.app)
 
-Tecnologías:
-Angular, TypeScript, Web Audio API
+### John Fragance · E-commerce de perfumería en producción
+Tienda online desde cero, con catálogo de 327 perfumes, pedidos y panel administrativo con autenticación JWT. Pensada para Cloudflare Workers y D1.
 
----
+Stack: Node.js, Express, Prisma, Cloudflare D1, JavaScript
+[Repositorio](https://github.com/Salamank06/john-fragance-store) · [Sitio](https://johnfragance.com)
 
-### Markdown Editor
-Editor que convierte **Markdown a HTML en tiempo real**.
+### CRM para taller de motos · SaaS con cliente real
+Sistema de gestión desarrollado para un taller de motos que lo usa en su operación.
 
-Principales características:
-- Conversión usando **Regex**
-- Edición bidireccional
-- Protección contra **XSS** con DomSanitizer
+Stack: Next.js, React, TypeScript, PostgreSQL
+[Repositorio](https://github.com/Salamank06/crm-taller-motos)
 
-Tecnologías:
-Angular, TypeScript
+### DVN · Tienda de streetwear
+Tienda online con frontend en React, API serverless en Vercel, base de datos en Neon y pagos con Bold.
 
----
+Stack: React, Vite, Tailwind, Neon (Postgres), Bold
+[Repositorio](https://github.com/Salamank06/dvn-store) · [Sitio](https://dvnshop.vercel.app)
 
-### Oclock
-Dashboard de relojes internacionales con actualización en tiempo real.
+### Grey Gamboa · Landing y panel para barbería
+Landing para una barbería de Bogotá y un panel para que el dueño edite precios, promociones y reseñas, y vea cuántos clics recibe.
 
-Principales características:
-- Actualización cada segundo con **RxJS**
-- Manejo correcto del ciclo de vida del componente
-- Prevención de fugas de memoria con `ngOnDestroy`
+Stack: Cloudflare Workers, D1, JavaScript
+[Repositorio](https://github.com/Salamank06/grey-gamboa-barberia) · [Sitio](https://morado.greygamboa.pages.dev/)
 
-Tecnologías:
-Angular, RxJS
+### Infinita · Tienda en Shopify
+Desarrollo de temas Liquid, integración de apps y mejoras de conversión con llamados a la acción.
+
+[Sitio](https://infinitatienda.net)
 
 ---
 
-## Formación
+## Aprendiendo en público: IA
 
-**Análisis y Desarrollo de Software**  
-SENA — Actualmente
+### AI Knowledge Assistant
+API asíncrona con FastAPI, Pydantic y pytest, preparada para conectar LLMs, RAG y agentes en los próximos módulos.
+
+Stack: Python, FastAPI, Pydantic, pytest
+[Repositorio](https://github.com/Salamank06/ai-knowledge-assistant)
 
 ---
 
-## Información
+## Stack
 
-Ubicación: Bogotá, Colombia  
-Idiomas: Español (Nativo), Inglés (B1)  
-Correo: santicosalamanca@gmail.com
+- **Frontend:** React, Next.js, Angular, TypeScript, Tailwind
+- **Backend:** Node.js, Express, FastAPI, .NET, Prisma
+- **Datos y nube:** PostgreSQL, Neon, Cloudflare Workers y D1, Vercel
+- **IA:** Python, FastAPI, pytest (en aprendizaje: LLMs, RAG, agentes)
+- **Herramientas:** Git, Docker, Azure DevOps, Scrum
+
+---
+
+## Formación e idiomas
+
+Tecnólogo en Análisis y Desarrollo de Software, SENA (en curso)  
+Español (nativo) · Inglés (B1)
+
+## Contacto
+
+santicosalamanca@gmail.com
