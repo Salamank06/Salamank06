@@ -20,7 +20,7 @@ Stack: Python, JavaScript, Dart, PostgreSQL, Docker
 Tienda online desde cero, con catálogo de 327 perfumes, pedidos y panel administrativo con autenticación JWT. Pensada para Cloudflare Workers y D1.
 
 Stack: Node.js, Express, Prisma, Cloudflare D1, JavaScript  
-Código privado por acuerdo con el cliente · [Sitio en producción](https://johnfragance.com)
+Código privado por acuerdo con el cliente · [Caso de estudio](https://github.com/Salamank06/john-fragance) · [Sitio en producción](https://johnfragance.com)
 
 ### CRM para taller de motos · SaaS con cliente real
 Sistema de gestión para un taller de motos: órdenes, clientes, facturas y panel con gráficas.
@@ -32,13 +32,13 @@ Código privado por acuerdo con el cliente
 Tienda online con frontend en React, API serverless en Vercel, base de datos en Neon y pagos con Bold.
 
 Stack: React, Vite, Tailwind, Neon (Postgres), Bold  
-Código privado por acuerdo con el cliente · [Sitio en producción](https://dvnshop.vercel.app)
+Código privado por acuerdo con el cliente · [Caso de estudio](https://github.com/Salamank06/dvn-streetwear) · [Sitio en producción](https://dvnshop.vercel.app)
 
 ### Grey Gamboa · Landing y panel para barbería
 Landing para una barbería de Bogotá y un panel para que el dueño edite precios, promociones y reseñas, y vea cuántos clics recibe.
 
 Stack: Cloudflare Workers, D1, JavaScript  
-Código privado por acuerdo con el cliente · [Sitio en producción](https://morado.greygamboa.pages.dev/)
+Código privado por acuerdo con el cliente · [Caso de estudio](https://github.com/Salamank06/grey-gamboa) · [Sitio en producción](https://morado.greygamboa.pages.dev/)
 
 ### Infinita · Tienda en Shopify
 Desarrollo de temas Liquid, integración de apps y mejoras de conversión con llamados a la acción.
