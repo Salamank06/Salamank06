@@ -13,35 +13,36 @@ Cofundador de **Mussav Studio**, un estudio de diseño y desarrollo digital, don
 ### FitLoyalty · Proyecto productivo del SENA
 Plataforma de fidelización para gimnasios, desarrollada en equipo de 3. Trabajé en todos los módulos: backend, frontend web, app móvil y base de datos. Soy el autor con más commits del repositorio.
 
-Stack: Python, JavaScript, Dart, PostgreSQL, Docker
+Stack: Python, JavaScript, Dart, PostgreSQL, Docker  
 [Repositorio](https://github.com/Luis140721/Proyecto_Fitloyalty) · [Demo](https://fitloyalty-zeta.vercel.app)
 
 ### John Fragance · E-commerce de perfumería en producción
 Tienda online desde cero, con catálogo de 327 perfumes, pedidos y panel administrativo con autenticación JWT. Pensada para Cloudflare Workers y D1.
 
-Stack: Node.js, Express, Prisma, Cloudflare D1, JavaScript
+Stack: Node.js, Express, Prisma, Cloudflare D1, JavaScript  
 Código privado por acuerdo con el cliente · [Sitio en producción](https://johnfragance.com)
 
 ### CRM para taller de motos · SaaS con cliente real
 Sistema de gestión para un taller de motos: órdenes, clientes, facturas y panel con gráficas.
 
-Stack: Next.js, React, TypeScript, PostgreSQL
+Stack: Next.js, React, TypeScript, PostgreSQL  
 Código privado por acuerdo con el cliente
 
 ### DVN · Tienda de streetwear
 Tienda online con frontend en React, API serverless en Vercel, base de datos en Neon y pagos con Bold.
 
-Stack: React, Vite, Tailwind, Neon (Postgres), Bold
+Stack: React, Vite, Tailwind, Neon (Postgres), Bold  
 Código privado por acuerdo con el cliente · [Sitio en producción](https://dvnshop.vercel.app)
 
 ### Grey Gamboa · Landing y panel para barbería
 Landing para una barbería de Bogotá y un panel para que el dueño edite precios, promociones y reseñas, y vea cuántos clics recibe.
 
-Stack: Cloudflare Workers, D1, JavaScript
+Stack: Cloudflare Workers, D1, JavaScript  
 Código privado por acuerdo con el cliente · [Sitio en producción](https://morado.greygamboa.pages.dev/)
 
 ### Infinita · Tienda en Shopify
 Desarrollo de temas Liquid, integración de apps y mejoras de conversión con llamados a la acción.
+
 
 [Sitio](https://infinitatienda.net)
 
@@ -52,7 +53,7 @@ Desarrollo de temas Liquid, integración de apps y mejoras de conversión con ll
 ### AI Knowledge Assistant
 API asíncrona con FastAPI, Pydantic y pytest, preparada para conectar LLMs, RAG y agentes en los próximos módulos.
 
-Stack: Python, FastAPI, Pydantic, pytest
+Stack: Python, FastAPI, Pydantic, pytest  
 [Repositorio](https://github.com/Salamank06/ai-knowledge-assistant)
 
 ---
